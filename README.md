@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Praveen E</h1>
 
-<!--
-**praveenpraveen5501-pixel/praveenpraveen5501-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">AI/ML Student | Aspiring Developer 🚀</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🎓 AI/ML Engineering Student
+- 🌱 Currently learning Python and Git
+- 💻 Interested in Artificial Intelligence and Machine Learning
+- 🚀 Building projects and improving my coding skills
+- ⚡ Learning something new every day
+
+---
+
+### 🛠️ Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+</p>
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveenpraveen5501-pixel&show_icons=true&theme=tokyonight)
+
+---
+
+<p align="center">
+  <i>“Consistency beats perfection. Keep building. 🔥”</i>
+</p>

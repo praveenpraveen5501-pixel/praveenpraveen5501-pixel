@@ -17,7 +17,7 @@
 ### 🛠️ Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,git,github" />
 </p>
 
 ### 📊 GitHub Stats
